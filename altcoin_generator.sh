@@ -14,15 +14,15 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="MyCoin"
-COIN_UNIT="MYC"
-# 42 million lite coins at total
-TOTAL_SUPPLY=42000000
-MAINNET_PORT="54321"
-TESTNET_PORT="54322"
-PHRASE="Some newspaper headline that describes something that happened today"
+COIN_NAME="ShipCoin"
+COIN_UNIT="SHIP"
+# 100,000,000 million coins at total
+TOTAL_SUPPLY=100000000
+MAINNET_PORT="8210321"
+TESTNET_PORT="903232"
+PHRASE="Jesus rose from the grave... again.."
 # First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding
-PUBKEY_CHAR="20"
+PUBKEY_CHAR="25"
 # leave CHAIN empty for main network, -regtest for regression network and -testnet for test network
 CHAIN="-regtest"
 
